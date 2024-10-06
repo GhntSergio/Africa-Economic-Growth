@@ -114,7 +114,7 @@ Merci de toujours respecter le style de code et de documenter vos modifications 
 
 ## 📜 Licence
 
-Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/All-projets/blob/main/Africa%20Economic%20Growth/LICENSE.md). Voir le fichier [LICENSE.md](https://github.com/GhntSergio/All-projets/blob/main/Africa%20Economic%20Growth/LICENSE.md) pour plus de détails.
+Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/Africa-Economic-Growth/blob/main/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/Africa-Economic-Growth/blob/main/LICENSE) pour plus de détails.
 
 
 ## 📞 Contact
